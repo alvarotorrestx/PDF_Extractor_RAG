@@ -1,0 +1,1 @@
+# PDF Extractor - Retrieval‑Augmented Generation (RAG) system
