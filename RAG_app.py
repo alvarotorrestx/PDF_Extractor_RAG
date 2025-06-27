@@ -16,8 +16,8 @@ warnings.filterwarnings("ignore")
 
 
 # ----- RAG Configuration Variables -----
-chunk_size = 500
-chunk_overlap = 50
+chunk_size = 750
+chunk_overlap = 75
 model_name = "sentence-transformers/all-distilroberta-v1"
 top_k = 5
 
